@@ -3,3 +3,4 @@
 
  - Adicionei uma navBar pra dispostivos mobiles.
  - Adicionei um Footer simples.
+ - Atualização de css.
